@@ -1,1 +1,3 @@
-![Image alt](https://github.com/{alenoktee}/{node-js-social-network}/raw/{main}/{path}/login-page.png)
+<p align="center">
+ <img width="900px" src="login-page.png" alt="qr"/>
+</p>
