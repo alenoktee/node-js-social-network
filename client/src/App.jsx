@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import viteLogo from '/vite.svg'
 import './App.css'
 import axios from "axios";
 import LoginForm from './Components/LoginForm';
