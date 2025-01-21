@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import './App.css'
 import axios from "axios";
-import LoginForm from './Components/LoginForm';
+import LoginForm from './Components/LoginForm/LoginForm';
 
 function App() {
   const [count, setCount] = useState(0);
